@@ -1,18 +1,10 @@
-### Hi there 👋
-
-<!--
-**justin-huiyun-lee/justin-huiyun-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Hello,
 ### I'm 5nsou.
+
+pronounced five en soo. (or you can just call me justin)
+
+im an aspiring computer engineer.
+im currently studying electrical devices and circuit theory, and am working on learning about & building operating systems.
+
+i don't create many public repositories, so you won't find much.
+ 
